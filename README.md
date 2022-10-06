@@ -1,2 +1,1 @@
-#!/bin/bash
-Ayo
+This repository contains solutions to the shell tasks
